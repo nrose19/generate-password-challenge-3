@@ -7,10 +7,11 @@ This challenge is based around JavaScript and focuses on the generation of rando
 Below is screenshot of the page itself along with a snippet of the code behind the page:
 
 ### Page:
-<img src="" alt="generate password page"/>
+<img width="926" alt="Screen Shot 2022-10-17 at 10 27 14 PM" src="https://user-images.githubusercontent.com/113370886/196343676-4b81835c-cf46-4fb9-8aef-0e57b89c74eb.png" alt="generate password page">
 
 ### Code: 
-<img src="" alt="code for generate password page"/>
+<img width="1022" alt="Screen Shot 2022-10-17 at 10 26 43 PM" src="https://user-images.githubusercontent.com/113370886/196343762-7d5f0e66-fc57-4c96-a765-cd03c383fb72.png" alt="code for generate password page">
+
 
 ## Link to Deployed Page
 Here is the link for the <a href="">Generate Password</a> page.
